@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Services"
       section: services
     - title: "Project"
-      section: Project
+      section: project
     - title: "About"
       section: about
     - title: "Career"
