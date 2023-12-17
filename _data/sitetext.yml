@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: project
     closebutton: "Close Project"
 
-  career:
+  timeline:
     title: "Career"
     text: "저의 커리어는요"
-    section: career
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
