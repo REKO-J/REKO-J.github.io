@@ -5,5 +5,4 @@
 
 #Image Customization
 header-image: "../assets/img/header-bg.jpg"
-# contact-image: "../img/map-image.png"
 contact-image: "../assets/img/map-image.png"
