@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 안녕하세요
+    text: 조영훈의 포트폴리오입니다
+    button: 더 알아보기 ↓
     buttonlink: "#services"
 
   services:
