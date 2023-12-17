@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   Project:
     title: "Project"
     text: "진행했던 프로젝트입니다."
-    section: Project
+    section: project
     closebutton: "Close Project"
 
   timeline:
