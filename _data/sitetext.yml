@@ -38,25 +38,25 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Career"
+    text: "저의 커리어는요"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "뉴파워프라즈마"
+        year: "2020.03 ~ 2022.08"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "[멀티캠퍼스] 서비스 산업 데이터를 활용한 빅데이터 분석"
+        year: "2022.09 ~ 2023.02"
+        desc: "멀티캠퍼스 서비스 산업 데이터를 활용한 빅데이터 분석 과정을 수료하였습니다."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "경기대학교 빅데이터센터 & 데이터랩"
+        year: "2023.08 ~ 2023.12"
+        desc: "경기대학교 빅데이터센터와 데이터랩 소속으로 AI 바우처, 데이터바우처 등의 프로젝트에 참여하여 다양한 데이터 구축 경험을 쌓았습니다."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
