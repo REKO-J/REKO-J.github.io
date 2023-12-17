@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: project
     - title: "About"
       section: about
-    - title: "Career"
-      section: career
+    - title: "Timeline"
+      section: timeline
     # - title: "Team"
     #   section: team
     - title: "Contact"
