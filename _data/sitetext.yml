@@ -37,7 +37,7 @@ en: &DEFAULT_EN
     section: project
     closebutton: "Close Project"
 
-  timeline:
+  career:
     title: "Career"
     text: "저의 커리어는요"
     section: career
