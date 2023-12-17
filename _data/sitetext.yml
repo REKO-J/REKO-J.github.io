@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   timeline:
     title: "Career"
     text: "저의 커리어는요"
-    section: timeline
+    section: career
     # left is the default
     #start_align: "left"
     events:
