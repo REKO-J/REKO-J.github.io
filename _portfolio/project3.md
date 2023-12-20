@@ -1,11 +1,11 @@
 ---
-title: CNN 모델을 활용한 재활용품 분류
+title: CNN 모델을 활용한 재활용 이미지 분류
 subtitle: 2022.11 ~ 2023.12(세미 프로젝트)
 image: assets/img/portfolio/03-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: CNN 모델을 활용한 재활용품 분류
+  title: CNN 모델을 활용한 재활용 이미지 분류
   subtitle: 2022.11 ~ 2023.12(세미 프로젝트)
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
