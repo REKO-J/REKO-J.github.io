@@ -5,16 +5,15 @@ image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: CNN 모델을 활용한 재활용품 분류
+  subtitle: 2022.11 ~ 2023.12(2주)
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+CNN 모델을 활용하여 6 개의 카테고리(플라스틱, 재활용이 가능한 플라스틱, 캔, 유리, 종이, 기타)로 **이미지 분류** 프로젝트입니다.
 
 {:.list-inline}
-- 진행기간: 2023.10 ~ 2023.11
-- Github: https://github.com/REKO-J/KGU-BDC
-- APP: https://kgu-bdc.streamlit.app/
+- 진행기간: 2022.11 ~ 2023.12(2주)
+- 개발환경: Google Colab
 - Languages: Python
-- Library: OpenAPI
-- UI: Steamlit
+- Library: Numpy, Tensorflow, Pandas, Keras
+- Model: CNN, VGG-16, ResNet50
