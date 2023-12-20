@@ -31,8 +31,8 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  project:
-    title: "Project"
+  portfolio:
+    title: "Portfolio"
     text: "진행했던 프로젝트입니다."
     section: portfolio
     closebutton: "Close Project"
