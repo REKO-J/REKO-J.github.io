@@ -1,6 +1,6 @@
 ---
 title: 일기 감정 분류 및 위로 문장 생성
-subtitle: - 진행기간: 2022.12 ~ 2023.02(2개월)
+subtitle: 진행기간: 2022.12 ~ 2023.02(2개월)
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
