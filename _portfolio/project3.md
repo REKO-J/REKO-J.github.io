@@ -17,4 +17,4 @@ CNN 모델을 활용하여 6 개의 카테고리(플라스틱, 재활용이 가�
 - Languages: Python
 - Library: Numpy, Tensorflow, Pandas, Keras
 - Model: CNN, VGG-16, ResNet50
-- 역할: 모델 구축(CNN, 전이학습(VGG-16, ResNet50), 데이터 전처리: 이미지 리사이징, 데이터 증식, 데이터 정규화
+- 역할: 모델 구축: CNN, 전이학습(VGG-16, ResNet50), 데이터 전처리: 이미지 리사이징, 데이터 증식, 데이터 정규화
