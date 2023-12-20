@@ -1,20 +1,21 @@
 ---
-title: CNN 모델을 활용한 재활용 이미지 분류
-subtitle: 2022.11 ~ 2023.12(세미 프로젝트)
+title: 일기 감정 분류 및 위로 문장 생성
+subtitle: 2022.12 ~ 2023.02(파이널 프로젝트)
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: CNN 모델을 활용한 재활용 이미지 분류
-  subtitle: 2022.11 ~ 2023.12(세미 프로젝트)
+  title: 일기 감정 분류 및 위로 문장 생성
+  subtitle: 2022.12 ~ 2023.02(파이널 프로젝트)
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-CNN 모델을 활용하여 6 개의 카테고리(플라스틱, 재활용이 가능한 플라스틱, 캔, 유리, 종이, 기타)로 **이미지 분류** 프로젝트입니다.
+SKT-KoBERT 모델을 활용하여 일기 문장의 **감정을 6가지 카테고리(기쁨, 슬픔, 짜증, 불안, 당황, 중립)로 분류**하고, BERT 모델을 활용하여 분류된 감정에 맞는 **위로 문장 출력**한 프로젝트입니다.
 
 {:.list-inline}
-- 진행기간: 2022.11 ~ 2023.12(2주)
+- 진행기간: 2022.12 ~ 2023.02(파이널 프로젝트)
 - 개발환경: Google Colab
 - Languages: Python
-- Library: Numpy, Tensorflow, Pandas, Keras
-- Model: CNN, VGG-16, ResNet50
-- 역할: 모델 구축: CNN, 전이학습(VGG-16, ResNet50), 데이터 전처리: 이미지 리사이징, 데이터 증식, 데이터 정규화
+- DB: Firebase, Google Drive
+- DATA: 모두의 말뭉치
+- Model: SKT-KoBERT, BERT
+- 역할: 데이터 수집 및 전처리: 모두의 말뭉치, 모델 구축: SKT-BERT(일기 감정에 맞는 위로 문장 생성), 웹 페이지: Steamlit
