@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Project"
     text: "진행했던 프로젝트입니다."
     section: portfolio
     closebutton: "Close Project"
