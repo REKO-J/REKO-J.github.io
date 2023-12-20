@@ -12,7 +12,7 @@ caption:
 SKT-KoBERT 모델을 활용하여 일기 문장의 **감정을 6가지 카테고리(기쁨, 슬픔, 짜증, 불안, 당황, 중립)로 분류**하고, BERT 모델을 활용하여 분류된 감정에 맞는 **위로 문장 출력**한 프로젝트입니다.
 
 {:.list-inline}
-- 진행기간: 2022.12 ~ 2023.02(2개월)
+- 진행기간: 2022.12 ~ 2023.02(파이널 프로젝트)
 - 개발환경: Google Colab
 - Languages: Python
 - DB: Firebase, Google Drive
