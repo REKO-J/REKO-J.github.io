@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Lorem ipsum or call 010-5611-1612"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
