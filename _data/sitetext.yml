@@ -17,9 +17,9 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About me"
+    text: "저는 이런 사람입니다."
+    body: "**호기심**이 많습니다."
     section: about
 
   services:
