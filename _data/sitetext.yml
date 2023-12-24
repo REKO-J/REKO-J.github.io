@@ -65,9 +65,9 @@ en: &DEFAULT_EN
         desc: "경기대학교 빅데이터센터와 데이터랩 소속으로 AI 바우처, 데이터바우처 등의 프로젝트에 참여하여 다양한 데이터 구축 경험을 쌓았습니다."
         image: assets/img/career/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Study"
+        year: "2024.01 ~ ing"
+        desc: "개인 프로젝트를 통해 꾸준히 발전중입니다."
         image: assets/img/career/4.jpg
         alt:
         # you can enforce the alignment
