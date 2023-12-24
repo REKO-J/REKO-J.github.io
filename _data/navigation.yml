@@ -11,18 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "About"
+      section: about
     - title: "Services"
       section: services
     - title: "Project"
       section: portfolio
-    - title: "About"
-      section: about
     - title: "Career"
       section: career
     # - title: "Team"
     #   section: team
-    # - title: "Contact"
-    #   section: contact
+    - title: "Contact"
+      section: contact
     # - title: "Theme Source"
     #   url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
