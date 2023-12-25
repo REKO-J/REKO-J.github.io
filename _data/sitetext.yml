@@ -72,7 +72,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Life is <br> a series <br> of baby steps!"
+    end: "Life is <br> a series of <br> baby steps!"
 
   # clients:
   #   section: clients
