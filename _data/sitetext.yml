@@ -45,7 +45,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Career"
-    text: "저의 커리어는요"
+    text: "저의 커리어는"
     section: career
     # left is the default
     #start_align: "left"
