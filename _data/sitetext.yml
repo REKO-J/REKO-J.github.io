@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   services:
     title: "SKILLS"
-    text: "저의 스킬은요"
+    text: "저의 스킬은"
     section: services
     list:
       - title: "Python"
