@@ -16,11 +16,11 @@ en: &DEFAULT_EN
     button: 더 알아보기 ↓
     buttonlink: "#services"
 
-  about:
-    title: "About me"
-    text: "저는 이런 사람입니다."
-    body: "**호기심**이 많습니다."
-    section: about
+  # about:
+  #   title: "About me"
+  #   text: "저는 이런 사람입니다."
+  #   body: "**호기심**이 많습니다."
+  #   section: about
 
   services:
     title: "Services"
