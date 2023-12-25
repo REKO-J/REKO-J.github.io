@@ -28,10 +28,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Python"
-        desc: "Pandas, Numpy, Tensorflow, PyTorch 등 <br> 파이썬 라이브러리에 대한 이해가 있으며, <br> 이를 사용하여 프로젝트를 진행한 경험이 있습니다."
+        desc: "Pandas, Numpy, Tensorflow, PyTorch 등 <br> 파이썬 라이브러리에 대한 이해가 있으며, <br> 이를 사용하여 프로젝트를 진행하였습니다."
         icon: fab fa-python #find more at https://fontawesome.com/icons
       - title: "SQL"
-        desc: "SQLD 자격증을 취득하였습니다. <br> SQL 문법을 사용하여 데이터베이스에서 자료를 처리할 수 있습니다."
+        desc: "SQLD 자격증을 취득하였습니다. <br> SQL 문법을 사용하여 데이터베이스에서 <br> 자료를 처리할 수 있습니다."
         icon: fas fa-laptop
       - title: "자격증"
         desc: "ADsP(데이터분석준전문가) <br> SQLD(SQL 개발자) <br> 정보처리기사(필기)"
