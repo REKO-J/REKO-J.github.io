@@ -28,13 +28,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Python"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Pandas, Numpy, Tensorflow, PyTorch 등 파이썬 라이브러리에 대한 이해가 있으며, 이를 사용하여 프로젝트를 진행한 경험이 있습니다."
         icon: fab fa-python #find more at https://fontawesome.com/icons
       - title: "SQL"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "SQLD 자격증을 취득하였고, SQL 문법을 사용하여 데이터베이스에서 자료를 처리할 수 있습니다."
         icon: fas fa-laptop
       - title: "자격증"
-        desc: "Your description here, full **Markdown** support"
+        desc: "ADsP(데이터분석준전문가) / SQLD(SQL 개발자) / 정보처리기사(필기)"
         icon: fas fa-graduation-cap
 
   portfolio:
