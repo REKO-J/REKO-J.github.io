@@ -29,7 +29,7 @@ en: &DEFAULT_EN
     list:
       - title: "Python"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-brands fa-python #find more at https://fontawesome.com/icons
+        icon: fa-brands fa-python #find more at https://fontawesome.com/icons
       - title: "SQL"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
