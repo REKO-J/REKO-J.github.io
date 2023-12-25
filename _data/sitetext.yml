@@ -34,7 +34,7 @@ en: &DEFAULT_EN
         desc: "SQLD 자격증을 취득하였고, SQL 문법을 사용하여 데이터베이스에서 자료를 처리할 수 있습니다."
         icon: fas fa-laptop
       - title: "자격증"
-        desc: "ADsP(데이터분석준전문가) / SQLD(SQL 개발자) / 정보처리기사(필기)"
+        desc: "ADsP(데이터분석준전문가) <br> SQLD(SQL 개발자) <br> 정보처리기사(필기)"
         icon: fas fa-graduation-cap
 
   portfolio:
