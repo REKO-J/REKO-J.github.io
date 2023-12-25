@@ -18,28 +18,28 @@ en: &DEFAULT_EN
 
   about:
     title: "About me"
-    text: "저는 이런 사람입니다."
+    text: "저는 이런 사람입니다"
     body: "**호기심**이 많습니다."
     section: about
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "SKILLS"
+    text: "저의 스킬은요"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Python"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-brands fa-python #find more at https://fontawesome.com/icons
+      - title: "SQL"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "자격증"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
   portfolio:
     title: "Project"
-    text: "진행했던 프로젝트입니다."
+    text: "진행했던 프로젝트입니다"
     section: portfolio
     closebutton: "Close Project"
 
@@ -52,22 +52,22 @@ en: &DEFAULT_EN
     events:
       - title: "뉴파워프라즈마"
         year: "2020.03 ~ 2022.08"
-        desc: "반도체 생산 장비 테스트 엔지니어로 근무했습니다."
+        desc: "반도체 생산 장비 테스트 엔지니어로 근무했습니다"
         image: assets/img/career/1.jpg
         alt:
       - title: "[멀티캠퍼스] <br> 서비스 산업 데이터를 활용한 빅데이터 분석"
         year: "2022.09 ~ 2023.02"
-        desc: "멀티캠퍼스 서비스 산업 데이터를 활용한 <br> 빅데이터 분석 과정을 수료하였습니다."
+        desc: "멀티캠퍼스 서비스 산업 데이터를 활용한 <br> 빅데이터 분석 과정을 수료하였습니다"
         image: assets/img/career/2.jpg
         alt:
       - title: "데이터랩 & <br> 경기대학교 빅데이터센터"
         year: "2023.08 ~ 2023.12"
-        desc: "경기대학교 빅데이터센터와 데이터랩 소속으로 AI 바우처, 데이터바우처 등의 프로젝트에 참여하여 다양한 데이터 구축 경험을 쌓았습니다."
+        desc: "경기대학교 빅데이터센터와 데이터랩 소속으로 AI 바우처, 데이터바우처 등의 프로젝트에 참여하여 다양한 데이터 구축 경험을 쌓았습니다"
         image: assets/img/career/3.jpg
         alt: image alt text
       - title: "Study"
         year: "2024.01 ~ ing"
-        desc: "개인 프로젝트를 통해 꾸준히 발전중입니다."
+        desc: "개인 프로젝트를 통해 꾸준히 발전중입니다"
         image: assets/img/career/4.jpg
         alt:
         # you can enforce the alignment
