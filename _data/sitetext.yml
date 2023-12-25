@@ -35,7 +35,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "자격증"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-file-certificate
+        icon: fas fa-graduation-cap
 
   portfolio:
     title: "Project"
